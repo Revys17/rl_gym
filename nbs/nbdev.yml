@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rl_gym"
+  site-url: "https://Revys17.github.io/rl_gym"
+  description: "test repo for writing RL agents"
+  repo-branch: main
+  repo-url: "https://github.com/Revys17/rl_gym"
